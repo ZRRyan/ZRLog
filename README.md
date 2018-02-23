@@ -21,3 +21,7 @@
  	*/
 	@property (nonatomic, assign, getter=isCache) BOOL cache;	
 
+## 预览
+<img src="/images/img1.png" height="200" width="100">
+<img src="/images/img2.png" height="200" width="100">
+
