@@ -110,7 +110,7 @@
 		944AE5441FD7DE7900C24971 /* ConsoleDemo */ = {
 			isa = PBXGroup;
 			children = (
-				944AE5771FD7E0A100C24971 /* LogConsole */,
+				944AE5771FD7E0A100C24971 /* ZRLog */,
 				944AE5451FD7DE7900C24971 /* AppDelegate.h */,
 				944AE5461FD7DE7900C24971 /* AppDelegate.m */,
 				944AE5481FD7DE7900C24971 /* ViewController.h */,
@@ -142,7 +142,7 @@
 			path = ConsoleDemoUITests;
 			sourceTree = "<group>";
 		};
-		944AE5771FD7E0A100C24971 /* LogConsole */ = {
+		944AE5771FD7E0A100C24971 /* ZRLog */ = {
 			isa = PBXGroup;
 			children = (
 				944AE5781FD7E0A100C24971 /* ZRLogModel.h */,
@@ -152,7 +152,7 @@
 				944AE57C1FD7E0A100C24971 /* ZRLogHelper.m */,
 				944AE57D1FD7E0A100C24971 /* ZRLogConsoleView.m */,
 			);
-			path = LogConsole;
+			path = ZRLog;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
